@@ -1,0 +1,88 @@
+img{
+    height: 150px;
+}
+
+#contenedor-imagenes{
+    border: 5px solid red;
+    position: relative; 
+
+#husky{
+    position:absolute;
+    left: 910px;
+    top: 5px;
+    z-index: 100;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+
+#husky-imagen{
+    position: absolute;
+    left: 903px;
+    top: 5px;
+
+
+}
+
+#golden{
+    position: relative;
+    left: 250px;
+    top:120px;
+    font-size: 30px;
+    font-weight: bold;
+    
+
+}
+
+#golden1-imagen{
+    position: relative;
+    left:10px ;
+    top:50px ;
+}
+
+#golden2-imagen{
+    position: relative;
+    left: -10px;
+    top: 100px;
+
+
+}
+
+#carlino{
+    position:relative;
+    left: 580px;
+    top: 115px;
+    font-size:30px ;
+    font-weight: bold;
+
+
+}
+
+#carlino-imagen{
+    position: relative;
+    left:700px ;
+    top: 0px;
+
+}
+
+#podenco{
+    position: absolute;
+    left: 625px;
+    top: 43px;
+    z-index: 100;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+
+
+}
+
+#podenco-imagen{
+    position: absolute;
+    left: 625px;
+    top: 60px;
+
+
+}
